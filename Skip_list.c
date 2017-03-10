@@ -1,7 +1,5 @@
 /* C program for  implementation Skip  list */
 //Name :- Amarnath
-//Roll no :- cs15btech11040
-//Lab no :- 7
 //Date modified :-  20/11/16
 //
 //  Created  on 16/08/16.
