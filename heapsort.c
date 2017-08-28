@@ -1,6 +1,6 @@
 /* C program for  heapsort */
-//Name :- Amarnath
-//Date modified :-  20/11/16
+// Name :- Amarnath
+// Date modified :-  20/11/16
 //
 //  Created  on 12/11/16.
 //  Copyright © 2016 . All rights reserved.
