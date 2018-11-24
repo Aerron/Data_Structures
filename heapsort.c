@@ -10,7 +10,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// calles it's self untill the heap satisfies it's condition
+// calls it's self untill the heap satisfies it's condition
 void heapify(int H[],int n,int r)
 {
     int root = r;
